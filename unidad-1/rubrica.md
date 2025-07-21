@@ -117,3 +117,46 @@ Evalúa la respuesta a esta pregunta y solicitud: `Explica cómo funciona el sis
 
 **Calificación Obtenida:** `[  ]` / 5
 
+# Fase apply
+
+## **Puntuación Final:** `[  ]` / 10
+
+### Explicación del Funcionamiento del Sistema Interactivo (Actividad 05)
+
+Evalúa la respuesta a esta solicitud: `En tu bitácora: explica cómo funciona el sistema físico interactivo que acabamos de crear.`
+
+> **5 (Completo y Preciso):** La explicación describe de forma clara y correcta el flujo completo del sistema: cómo el micro:bit envía continuamente el estado del botón A, cómo p5.js lee este dato en cada frame y cómo utiliza ese dato para decidir el color del cuadrado (rojo o verde) antes de dibujarlo.
+>
+> **4 (Logrado):** La explicación describe el funcionamiento general correctamente, pero presenta una omisión menor, como no mencionar por qué es necesario enviar un estado para "no presionado" ('N') o no describir el flujo como un proceso continuo en cada fotograma.
+>
+> **3 (Suficiente):** La explicación es parcial. Describe correctamente lo que hace el micro:bit y lo que hace p5.js por separado, pero no conecta claramente la interacción continua entre ambos.
+>
+> **2 (En Desarrollo):** La explicación es superficial y solo describe el resultado observable ("cuando presiono el botón, el cuadrado cambia de color") sin detallar el proceso de comunicación o la lógica subyacente.
+>
+> **1 (Inicial):** Se realiza un intento mínimo de explicación, pero esta es incorrecta, incomprensible o no corresponde al sistema creado.
+>
+> **0 (No Realizado):** No se presenta evidencia alguna para el criterio. La sección correspondiente en la bitácora está en blanco.
+
+**Calificación Obtenida:** `[  ]` / 5
+
+---
+
+### Control de Movimiento con micro:bit (Actividad 06)
+
+Evalúa la entrega de los siguientes elementos en la bitácora: `Escribe el enlace a tu programa en el editor de p5.js. Copia el código de tu programa en la bitácora (usando markdown y el lenguaje javascript). Copia el código del micro:bit en la bitácora (usando markdown y el lenguaje python).`
+
+> **5 (Completo y Preciso):** Se entregan en la bitácora los tres elementos solicitados: un enlace funcional al editor de p5.js, el código de p5.js formateado en un bloque markdown para `javascript`, y el código del micro:bit formateado en un bloque markdown para `python`.
+>
+> **4 (Logrado):** Se entregan los tres elementos, pero se presenta una única omisión o error menor: el enlace no es funcional, uno de los dos bloques de código no está formateado correctamente con markdown, o falta uno de los dos bloques de código.
+>
+> **3 (Suficiente):** Se entregan únicamente dos de los tres elementos solicitados.
+>
+> **2 (En Desarrollo):** Se entrega únicamente uno de los tres elementos solicitados.
+>
+> **1 (Inicial):** Se realiza una entrega que no incluye ninguno de los elementos solicitados de forma correcta (p. ej., solo texto descriptivo).
+>
+> **0 (No Realizado):** No se presenta evidencia alguna para el criterio.
+
+**Calificación Obtenida:** `[  ]` / 5
+
+---
